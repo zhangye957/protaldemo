@@ -1,0 +1,125 @@
+#btl{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 130px;
+    background: #2D2D2E;
+}
+#btl1 img{
+    display: flex;
+    position: absolute;
+    height: 80px;
+    width: 290px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+#btl2 img{
+    display: flex;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    margin-left: 590px;
+    margin-top: 41px;
+}
+#dl{
+    display: flex;
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    margin-left: 665px;
+    margin-top: 51px;
+}
+#btl3{
+    display: flex;
+    position: absolute;
+    height: 60px;
+    width: 180px;
+    background: #FF6022;
+    margin-left: 760px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+#btl3 span{
+    font-size: 33px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#er{
+    display: flex;
+    position: relative;
+}
+#er1{
+    display: flex;
+    position: absolute;
+    height: 550px;
+    width: 100%;
+}
+#ad{
+    display: flex;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    margin-top:550px;
+}
+#er2{
+    display: flex;
+    position: absolute;
+    height: 136px;
+    width: 138px;
+    margin-left: 27px;
+    margin-top: 18px;
+    justify-content: space-between;
+}
+#ad span{
+    display: flex;
+    position: absolute;
+    font-size: 36px;
+    margin-left: 170px;
+    margin-top: 65px;
+}
+#er3{
+    display: flex;
+    position: absolute;
+    background: #FF6022;
+    border-radius: 10px;
+    width: 170px;
+    height: 90px;
+    margin-left: 770px;
+    margin-top: 42px;
+}
+/**/
+#ds{
+    display: flex;
+    position: relative;
+    margin-top: 170px;
+    margin-left: 40px;
+    width: 100%;
+    height: 300px;
+    border-bottom: 3px #F3F3F4 solid ;
+    border-top: 3px #F3F3F4 solid ;
+}
+#dsq span{
+    display: flex;
+    position: absolute;
+    margin-left: 0;
+    margin-top: 40px;
+    font-size: 42px;
+    font-weight: bold;
+    padding-bottom: 20px
+}
+#dsw span{
+    display: flex;
+    position: absolute;
+    font-size: 30px;
+    color: #8F8F9D;
+    margin-left: 0;
+    margin-top: 100px;
+}
+#dse{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    margin-top: 120px;
+}
