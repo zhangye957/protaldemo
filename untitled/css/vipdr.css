@@ -1,0 +1,65 @@
+#hdb-a img{
+    width: 100%;
+    height: 100%;
+}
+#hdb-b img{
+    width: 122px;
+    height: 122px;
+    position: absolute;
+    top:3px;
+    right:25px;
+    border-radius: 65px;
+}
+#hdb-c img{
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    right: 25px;
+    top:85px;
+    border-radius: 65px;
+}
+#hdb-d{
+    position: absolute;
+    top:150px;
+    right: 0;
+    height: 150px;
+    width: 50px;
+    background: transparent;
+}
+#hdb-d span{
+    font-size: 33px;
+    color:transparent ;
+}
+#hdb img{
+    position: absolute;
+    padding:auto;
+    margin-left: 18.5px;
+    width: 96.5%;
+    height: 530px;
+    top:590px;
+}
+#tp img{
+    position: absolute;
+    width: 40%;
+    height: 300px;
+}
+#tuq{
+
+}
+#tuq img{
+    position: absolute;
+    padding:auto;
+    margin-left: 504px;
+    width: 46.5%;
+    height: 436px;
+    top:1395px;
+}
+#tuw img{
+    position: absolute;
+    padding:auto;
+    margin-left: 21.5px;
+    width: 46.5%;
+    height: 436px;
+    top:1395px;
+}
+
